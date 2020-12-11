@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 нояб. 2020 г., 19:14:57
+    Author     : Mkarlos
+*/
+
+        body {
+            margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+        }
+        .first {
+            width: 1600px;
+            height: 210px;
+            top: 0px;
+            left: 0px;
+            background-color: #313C4E;
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+        }
+        .resume {
+            width: 900px;
+            height: 200px;
+            position: absolute;
+        }
+        .img {
+            width: 90px;
+            height: 90px;
+            position: absolute;
+            top: 20px;
+            left: 1100px;
+        }
+        .resume {
+            color: white;
+        }
+        .st1 {
+            color: #50868E;
+        }
+        .zag {
+            text-decoration: underline;
+            color: #50868E;
+        }
+        .second {
+            background-color: #222B34;
+            width: 1600px;
+            height: 150px;
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+            color: white;
+        }
+        .sec1 {
+            width: 300px;
+            height: 150px;
+            position: absolute;
+            top: 200px;
+            left: 140px;
+        }
+        .sec2 {
+            width: 300px;
+            height: 150px;
+            position: absolute;
+            top: 200px;
+            left: 700px;
+        }
+        .left {
+            width: 400px;
+            height: 200px;
+            position: absolute;
+            top: 360px;
+            left: 140px;
+        }
+        .right {
+            width: 400px;
+            height: 200px;
+            position: absolute;
+            top: 360px;
+            left: 800px;
+        }
+        
+
