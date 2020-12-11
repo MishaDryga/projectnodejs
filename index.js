@@ -12,8 +12,8 @@ app.use(
   })
   );
   
-app.get('/table1', db.getUsers)
-app.get('/table1/:id', db.getUserById)
+app.get('/users', db.getUsers)
+app.get('/users/:id', db.getUserById)
 app.use(express.static("site"));
 
 app.listen(port, () => {
